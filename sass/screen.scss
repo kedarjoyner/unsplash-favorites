@@ -1,0 +1,58 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+// @import "compass/reset";
+
+body {
+  padding-top: 100px;
+}
+
+// ICONS
+.icon-style {
+  color: #aa863a;
+}
+
+// LINKS
+a {
+  color: #aa863a;
+}
+
+a:visited {
+  color: #aa863a;
+}
+
+a:hover {
+  color: #222222;
+}
+
+
+
+// NAVBAR LINKS
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand  {
+  color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-brand:hover {
+    color: #aa863a;
+}
+
+
+// NAVBAR
+.nav-style {
+  background-color: #222222;
+}
+
+
+// JUMBOTRON & IMAGE GRID
+
+.container {
+  .jumbotron-style {
+    color: #222222;
+  }
+  .column-padding {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
