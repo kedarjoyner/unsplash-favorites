@@ -1,2 +1,2 @@
 # unsplash-favorites
-A collection of my favorite Unsplash images. This project was used to successfully learn how to integrate Compass into my Sass workflow.
+A collection of my favorite Unsplash images. Nothing too fancy! This project was used to learn how to successfully integrate Compass into my Sass workflow.
